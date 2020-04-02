@@ -1,3 +1,4 @@
 # hello-world
 Test GIT project to understand workflow
-Hello GIT
+
+It's crazy that I just try to understand GIT process on 2020!
